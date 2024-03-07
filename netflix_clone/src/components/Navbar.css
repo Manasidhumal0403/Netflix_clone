@@ -1,0 +1,13 @@
+.logo {
+  display: flex;
+  diplay:grid;
+  background-color: #1bcf2d;
+  color: white;
+  position: absolute;
+  left: 40px; /* Adjust this value based on your preference */
+  top: 40px; /* Adjust this value based on your preference */
+  width: 400px; /* Adjust the width of your logo */
+  height: auto; /* Maintain the aspect ratio of your logo */
+  margin-left: 10%;
+
+}
